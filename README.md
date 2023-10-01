@@ -1,2 +1,1 @@
-# Carpeta_Henry
-Este es un repositorio de Prueba 
+ESTE PROYECTO ES UN REPOSITORIO DE PRUEBA PARA APRENDER A CLONAR 
